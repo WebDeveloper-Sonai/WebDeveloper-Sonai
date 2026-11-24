@@ -246,25 +246,25 @@ Whether I am architecting a responsive web interface, choreographing fluid web a
 <div align="center">
 
   <!-- GitHub Stats & Top Languages -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&icon_color=D4AF37&border_color=D4AF37&hide_border=false" alt="GitHub Stats" />
+  <a href="https://github.com/WebDeveloper-Sonai">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=WebDeveloper-Sonai &show_icons=true&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&icon_color=D4AF37&border_color=D4AF37&hide_border=false" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&border_color=D4AF37&hide_border=false" alt="Most Used Languages" />
+  <a href="https://github.com/WebDeveloper-Sonai">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper-Sonai &layout=compact&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&border_color=D4AF37&hide_border=false" alt="Most Used Languages" />
   </a>
 
   <br /><br />
 
   <!-- GitHub Streak Stats -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=0A0F1C&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=D4AF37" alt="GitHub Streak" />
+  <a href="https://github.com/WebDeveloper-Sonai">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDeveloper-Sonai &background=0A0F1C&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=D4AF37" alt="GitHub Streak" />
   </a>
 
   <br /><br />
 
   <!-- GitHub Profile Summary Card -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
+  <a href="https://github.com/WebDeveloper-Sonai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WebDeveloper-Sonai&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
   </a>
 
 </div>
