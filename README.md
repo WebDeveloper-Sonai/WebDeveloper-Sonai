@@ -121,6 +121,51 @@
 <img src="https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=F7E7CE" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS%20Code-0A0F1C?style=for-the-badge&logo=visualstudiocode&logoColor=F7E7CE" alt="VS Code" />
 ​</div>
+<!-- ========================================================= -->
+<!--                GITHUB STATISTICS DASHBOARD                -->
+<!-- ========================================================= -->
+✦ GitHub Statistics Dashboard
+<div align="center">
+<!-- GitHub Stats & Top Languages -->
+<a href="https://github.com/WebDeveloper-Sonai">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=WebDeveloper-Sonai&show_icons=true&bg_color=0A0F1C&title_color=87CEEB&text_color=E5E4E2&icon_color=F7E7CE&border_color=87CEEB&hide_border=false" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/WebDeveloper-Sonai">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper-Sonai&layout=compact&bg_color=0A0F1C&title_color=87CEEB&text_color=E5E4E2&border_color=87CEEB&hide_border=false" alt="Most Used Languages" />
+</a>
+<br /><br />
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/WebDeveloper-Sonai">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDeveloper-Sonai&background=0A0F1C&ring=87CEEB&fire=F7E7CE&currStreakLabel=87CEEB&sideLabels=BFEFFF&currStreakNum=E5E4E2&sideNums=E5E4E2&dates=BFEFFF&border=87CEEB" alt="GitHub Streak" />
+</a>
+<br /><br />
+<!-- GitHub Profile Summary Card -->
+<a href="https://github.com/WebDeveloper-Sonai">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WebDeveloper-Sonai&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
+</a>
+</div>
+<!-- ========================================================= -->
+<!--                     GITHUB ACTIVITY                       -->
+<!-- ========================================================= -->
+✦ GitHub Activity
+<div align="center">
+<!-- Contribution Activity Graph -->
+<a href="https://github.com/WebDeveloper-Sonai">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WebDeveloper-Sonai&bg_color=0A0F1C&color=87CEEB&line=87CEEB&point=F7E7CE&area=true&area_color=BFEFFF&hide_border=false&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph" />
+</a>
+</div>
+<br />
+<details>
+<summary><strong>▸ View GitHub Achievements & Milestones</strong></summary>
+<br />
+<p>
+GitHub Achievements automatically appear on your profile sidebar as you earn them (such as <em>Pull Shark</em>, <em>Quickdraw</em>, or <em>YOLO</em>). You can also add custom milestones, certifications, or open-source highlights right here as your portfolio grows.
+</p>
+<ul>
+<li>🏆 <strong>Milestone 1:</strong> Replace with a verified project launch or certification.</li>
+<li>🏆 <strong>Milestone 2:</strong> Replace with a notable open-source contribution or client highlight.</li>
+</ul>
+</details>
 ​<!-- ========================================================= -->
 <!--                     FEATURED PROJECTS                     -->
 <!-- ========================================================= -->
@@ -201,51 +246,7 @@
 </tr>
 </table>
 </div>
-​<!-- ========================================================= -->
-<!--                GITHUB STATISTICS DASHBOARD                -->
-<!-- ========================================================= -->
-​✦ GitHub Statistics Dashboard
-​<div align="center">
-​<!-- GitHub Stats & Top Languages -->
-<a href="https://github.com/WebDeveloper-Sonai">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=WebDeveloper-Sonai&show_icons=true&bg_color=0A0F1C&title_color=87CEEB&text_color=E5E4E2&icon_color=F7E7CE&border_color=87CEEB&hide_border=false" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/WebDeveloper-Sonai">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper-Sonai&layout=compact&bg_color=0A0F1C&title_color=87CEEB&text_color=E5E4E2&border_color=87CEEB&hide_border=false" alt="Most Used Languages" />
-</a>
-​<br /><br />
-​<!-- GitHub Streak Stats -->
-<a href="https://github.com/WebDeveloper-Sonai">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDeveloper-Sonai&background=0A0F1C&ring=87CEEB&fire=F7E7CE&currStreakLabel=87CEEB&sideLabels=BFEFFF&currStreakNum=E5E4E2&sideNums=E5E4E2&dates=BFEFFF&border=87CEEB" alt="GitHub Streak" />
-</a>
-​<br /><br />
-​<!-- GitHub Profile Summary Card -->
-<a href="https://github.com/WebDeveloper-Sonai">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WebDeveloper-Sonai&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
-</a>
-​</div>
-​<!-- ========================================================= -->
-<!--                     GITHUB ACTIVITY                       -->
-<!-- ========================================================= -->
-​✦ GitHub Activity
-​<div align="center">
-​<!-- Contribution Activity Graph -->
-<a href="https://github.com/WebDeveloper-Sonai">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WebDeveloper-Sonai&bg_color=0A0F1C&color=87CEEB&line=87CEEB&point=F7E7CE&area=true&area_color=BFEFFF&hide_border=false&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph" />
-</a>
-​</div>
-​<br />
-​<details>
-<summary><strong>▸ View GitHub Achievements & Milestones</strong></summary>
-<br />
-<p>
-GitHub Achievements automatically appear on your profile sidebar as you earn them (such as <em>Pull Shark</em>, <em>Quickdraw</em>, or <em>YOLO</em>). You can also add custom milestones, certifications, or open-source highlights right here as your portfolio grows.
-</p>
-<ul>
-<li>🏆 <strong>Milestone 1:</strong> Replace with a verified project launch or certification.</li>
-<li>🏆 <strong>Milestone 2:</strong> Replace with a notable open-source contribution or client highlight.</li>
-</ul>
-</details>
+​
 ​<!-- ========================================================= -->
 <!--                      LET'S CONNECT                        -->
 <!-- ========================================================= -->
