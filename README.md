@@ -24,7 +24,7 @@
     <a href="mailto:dassonai743425@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-0A0F1C?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email Sonai Das" />
     </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <a href="https://github.com/WebDeveloper-Sonai" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Profile-0A0F1C?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub Profile" />
     </a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -34,7 +34,7 @@
 
   <!-- Profile Visitor Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=D4AF37&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=WebDeveloper-Sonai&label=PROFILE%20VIEWS&color=D4AF37&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
