@@ -280,8 +280,8 @@ Whether I am architecting a responsive web interface, choreographing fluid web a
 <div align="center">
 
   <!-- Contribution Activity Graph -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0A0F1C&color=D4AF37&line=D4AF37&point=E2E8F0&area=true&area_color=D4AF37&hide_border=false&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph" />
+  <a href="https://github.com/WebDeveloper-Sonai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WebDeveloper-Sonai &bg_color=0A0F1C&color=D4AF37&line=D4AF37&point=E2E8F0&area=true&area_color=D4AF37&hide_border=false&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph" />
   </a>
 
 </div>
