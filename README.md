@@ -3,9 +3,9 @@
 <!-- ========================================================= -->
 ​<div align="center">
 ​<picture>
-<source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-<img src="./dark.svg" width="100%" alt="Sonai Das — Web Designer, Developer and Data Analyst" />
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+  <img src="./dark.svg" width="100%" alt="Sonai Das — Web Designer, Developer and Data Analyst" />
 </picture>
 ​<br /><br />
 ​<!-- Animated Typing SVG -->
