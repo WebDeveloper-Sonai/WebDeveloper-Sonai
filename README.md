@@ -247,17 +247,17 @@ Whether I am architecting a responsive web interface, choreographing fluid web a
 
   <!-- GitHub Stats & Top Languages -->
   <a href="https://github.com/WebDeveloper-Sonai">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=WebDeveloper-Sonai &show_icons=true&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&icon_color=D4AF37&border_color=D4AF37&hide_border=false" alt="GitHub Stats" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=WebDeveloper-Sonai&show_icons=true&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&icon_color=D4AF37&border_color=D4AF37&hide_border=false" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/WebDeveloper-Sonai">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper-Sonai &layout=compact&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&border_color=D4AF37&hide_border=false" alt="Most Used Languages" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper-Sonai&layout=compact&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&border_color=D4AF37&hide_border=false" alt="Most Used Languages" />
   </a>
 
   <br /><br />
 
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/WebDeveloper-Sonai">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDeveloper-Sonai &background=0A0F1C&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=D4AF37" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDeveloper-Sonai&background=0A0F1C&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=D4AF37" alt="GitHub Streak" />
   </a>
 
   <br /><br />
@@ -270,6 +270,7 @@ Whether I am architecting a responsive web interface, choreographing fluid web a
 </div>
 
 ---
+
 
 <!-- ========================================================= -->
 <!--                     GITHUB ACTIVITY                       -->
