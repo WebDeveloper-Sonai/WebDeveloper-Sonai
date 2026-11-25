@@ -39,6 +39,7 @@
 <!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
 ​✦ About Me
+
 ​I am Sonai Das, a multidisciplinary Web Designer, Developer, and Data Analyst based in West Bengal, India. I operate at the intersection of visual design, interactive frontend engineering, and analytical problem-solving.
 ​Whether I am architecting a responsive web interface, choreographing fluid web animations, or distilling complex datasets into actionable insights, my focus remains the same: clarity, precision, and purposeful digital innovation.
 ​<details>
@@ -66,6 +67,51 @@
 <td><a href="mailto:dassonai743425@gmail.com">dassonai743425@gmail.com</a></td>
 </tr>
 </table>
+</details>
+<!-- ========================================================= -->
+<!--                GITHUB STATISTICS DASHBOARD                -->
+<!-- ========================================================= -->
+​✦ GitHub Statistics Dashboard
+​<div align="center">
+​<!-- GitHub Stats & Top Languages -->
+<a href="https://github.com/WebDeveloper-Sonai">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=WebDeveloper-Sonai&show_icons=true&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&icon_color=D4AF37&border_color=D4AF37&hide_border=false" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/WebDeveloper-Sonai">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper-Sonai&layout=compact&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&border_color=D4AF37&hide_border=false" alt="Most Used Languages" />
+</a>
+​<br /><br />
+​<!-- GitHub Streak Stats -->
+<a href="https://github.com/WebDeveloper-Sonai">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDeveloper-Sonai&background=0A0F1C&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=D4AF37" alt="GitHub Streak" />
+</a>
+​<br /><br />
+​<!-- GitHub Profile Summary Card -->
+<a href="https://github.com/WebDeveloper-Sonai">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WebDeveloper-Sonai&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
+</a>
+​</div>
+<!-- ========================================================= -->
+<!--                     GITHUB ACTIVITY                       -->
+<!-- ========================================================= -->
+​✦ GitHub Activity
+​<div align="center">
+​<!-- Contribution Activity Graph -->
+<a href="https://github.com/WebDeveloper-Sonai">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WebDeveloper-Sonai&bg_color=0A0F1C&color=D4AF37&line=D4AF37&point=E2E8F0&area=true&area_color=D4AF37&hide_border=false&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph" />
+</a>
+​</div>
+​<br />
+​<details>
+<summary><strong>▸ View GitHub Achievements & Milestones</strong></summary>
+<br />
+<p>
+GitHub Achievements automatically appear on your profile sidebar as you earn them (such as <em>Pull Shark</em>, <em>Quickdraw</em>, or <em>YOLO</em>). You can also add custom milestones, certifications, or open-source highlights right here as your portfolio grows.
+</p>
+<ul>
+<li>🏆 <strong>Milestone 1:</strong> Replace with a verified project launch or certification.</li>
+<li>🏆 <strong>Milestone 2:</strong> Replace with a notable open-source contribution or client highlight.</li>
+</ul>
 </details>
 ​<!-- ========================================================= -->
 <!--                        WHAT I DO                          -->
@@ -203,51 +249,7 @@
 </tr>
 </table>
 </div>
-​<!-- ========================================================= -->
-<!--                GITHUB STATISTICS DASHBOARD                -->
-<!-- ========================================================= -->
-​✦ GitHub Statistics Dashboard
-​<div align="center">
-​<!-- GitHub Stats & Top Languages -->
-<a href="https://github.com/WebDeveloper-Sonai">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=WebDeveloper-Sonai&show_icons=true&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&icon_color=D4AF37&border_color=D4AF37&hide_border=false" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/WebDeveloper-Sonai">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeveloper-Sonai&layout=compact&bg_color=0A0F1C&title_color=D4AF37&text_color=E2E8F0&border_color=D4AF37&hide_border=false" alt="Most Used Languages" />
-</a>
-​<br /><br />
-​<!-- GitHub Streak Stats -->
-<a href="https://github.com/WebDeveloper-Sonai">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WebDeveloper-Sonai&background=0A0F1C&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&border=D4AF37" alt="GitHub Streak" />
-</a>
-​<br /><br />
-​<!-- GitHub Profile Summary Card -->
-<a href="https://github.com/WebDeveloper-Sonai">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WebDeveloper-Sonai&theme=tokyonight" width="95%" alt="GitHub Profile Summary" />
-</a>
-​</div>
-​<!-- ========================================================= -->
-<!--                     GITHUB ACTIVITY                       -->
-<!-- ========================================================= -->
-​✦ GitHub Activity
-​<div align="center">
-​<!-- Contribution Activity Graph -->
-<a href="https://github.com/WebDeveloper-Sonai">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WebDeveloper-Sonai&bg_color=0A0F1C&color=D4AF37&line=D4AF37&point=E2E8F0&area=true&area_color=D4AF37&hide_border=false&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph" />
-</a>
-​</div>
-​<br />
-​<details>
-<summary><strong>▸ View GitHub Achievements & Milestones</strong></summary>
-<br />
-<p>
-GitHub Achievements automatically appear on your profile sidebar as you earn them (such as <em>Pull Shark</em>, <em>Quickdraw</em>, or <em>YOLO</em>). You can also add custom milestones, certifications, or open-source highlights right here as your portfolio grows.
-</p>
-<ul>
-<li>🏆 <strong>Milestone 1:</strong> Replace with a verified project launch or certification.</li>
-<li>🏆 <strong>Milestone 2:</strong> Replace with a notable open-source contribution or client highlight.</li>
-</ul>
-</details>
+​
 ​<!-- ========================================================= -->
 <!--                      LET'S CONNECT                        -->
 <!-- ========================================================= -->
